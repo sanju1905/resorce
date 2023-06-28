@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar a {
+    color: #ffffff !important;
+}
+
+.active {
+    border-bottom: 2px solid #ffffff !important;
+}
+
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175) !important;
+}
+
+.fa-bars {
+    color: #ffffff !important;
+    font-size: 18px;
+}
+
+.dropdown-menu {
+    background-color: #55198B !important;
+    margin: 0px !important;
+    color: white !important;
+    margin-top: -1px !important;
+    z-index: 100;
+    border-radius: 0px !important;
+}
+
+.dropdown-menu a {
+    color: white !important;
+}
+
+.dropdown-menu a:hover {
+    color: #55198B !important;
+    background-color: #fff !important;
+}

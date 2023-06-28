@@ -1,0 +1,7 @@
+Options -indexes
+
+
+RewriteEngine On
+
+RewriteRule ^dashboard index.php [NC,L]
+RewriteRule ^bookings bookings.php [NC,L]
